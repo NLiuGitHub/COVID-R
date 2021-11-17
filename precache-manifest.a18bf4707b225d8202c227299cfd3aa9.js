@@ -97,14 +97,14 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>COVID-R-Web-App/asset-manifest.json at main · rhageboeck/COVID-R-Web-App</title>
+  <title>COVID-R-Web-App/precache-manifest.a18bf4707b225d8202c227299cfd3aa9.js at main · rhageboeck/COVID-R-Web-App</title>
     <meta name="description" content="Contribute to rhageboeck/COVID-R-Web-App development by creating an account on GitHub.">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
   <meta property="fb:app_id" content="1401488693436528">
   <meta name="apple-itunes-app" content="app-id=1477376905" />
-    <meta name="twitter:image:src" content="https://avatars.githubusercontent.com/u/32132880?s=400&amp;v=4" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary" /><meta name="twitter:title" content="COVID-R-Web-App/asset-manifest.json at main · rhageboeck/COVID-R-Web-App" /><meta name="twitter:description" content="Contribute to rhageboeck/COVID-R-Web-App development by creating an account on GitHub." />
-    <meta property="og:image" content="https://avatars.githubusercontent.com/u/32132880?s=400&amp;v=4" /><meta property="og:image:alt" content="Contribute to rhageboeck/COVID-R-Web-App development by creating an account on GitHub." /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="COVID-R-Web-App/asset-manifest.json at main · rhageboeck/COVID-R-Web-App" /><meta property="og:url" content="https://github.com/rhageboeck/COVID-R-Web-App" /><meta property="og:description" content="Contribute to rhageboeck/COVID-R-Web-App development by creating an account on GitHub." />
+    <meta name="twitter:image:src" content="https://avatars.githubusercontent.com/u/32132880?s=400&amp;v=4" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary" /><meta name="twitter:title" content="COVID-R-Web-App/precache-manifest.a18bf4707b225d8202c227299cfd3aa9.js at main · rhageboeck/COVID-R-Web-App" /><meta name="twitter:description" content="Contribute to rhageboeck/COVID-R-Web-App development by creating an account on GitHub." />
+    <meta property="og:image" content="https://avatars.githubusercontent.com/u/32132880?s=400&amp;v=4" /><meta property="og:image:alt" content="Contribute to rhageboeck/COVID-R-Web-App development by creating an account on GitHub." /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="COVID-R-Web-App/precache-manifest.a18bf4707b225d8202c227299cfd3aa9.js at main · rhageboeck/COVID-R-Web-App" /><meta property="og:url" content="https://github.com/rhageboeck/COVID-R-Web-App" /><meta property="og:description" content="Contribute to rhageboeck/COVID-R-Web-App development by creating an account on GitHub." />
     
 
 
@@ -112,11 +112,11 @@
     
 
   <link rel="assets" href="https://github.githubassets.com/">
-    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/87343795/ws?session=eyJ2IjoiVjMiLCJ1Ijo4NzM0Mzc5NSwicyI6Nzc4Mzk0MzM0LCJjIjoxNTIyMTgwMDU2LCJ0IjoxNjM3MTEwMjkzfQ==--42c4862151584c323bcc4ccfd86da6f074eebab3c587fd23ca6332bf541e2459" data-refresh-url="/_alive" data-session-id="90a3e23295d679ba2cbb1f419ebc91c811b4ecb5dd4760ccf905cf0cfa6312d4">
+    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/87343795/ws?session=eyJ2IjoiVjMiLCJ1Ijo4NzM0Mzc5NSwicyI6Nzc4Mzk0MzM0LCJjIjozMTEwNjE2ODk4LCJ0IjoxNjM3MTEwMzI2fQ==--451adefbffcbd8a0963cae0e9004dd8e4400cccbe348f8de15ccf8c15e061380" data-refresh-url="/_alive" data-session-id="90a3e23295d679ba2cbb1f419ebc91c811b4ecb5dd4760ccf905cf0cfa6312d4">
     <link rel="shared-web-socket-src" href="/assets-cdn/worker/socket-worker-2e2ab3fc.js">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
 
-  <meta name="request-id" content="D835:07F2:2F5E9C5:4E472F8:619451A3" data-pjax-transient="true" /><meta name="html-safe-nonce" content="df154453fe28713ab4e8e29ef6f4ed31ca4649f4b76ac6cad46d0dd23be4f202" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9yaGFnZWJvZWNrL0NPVklELVItV2ViLUFwcC90cmVlL21haW4vYnVpbGQiLCJyZXF1ZXN0X2lkIjoiRDgzNTowN0YyOjJGNUU5QzU6NEU0NzJGODo2MTk0NTFBMyIsInZpc2l0b3JfaWQiOiI0NzM1NDE2ODYzODQ2NDE5OTg0IiwicmVnaW9uX2VkZ2UiOiJpYWQiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-pjax-transient="true" /><meta name="visitor-hmac" content="c769e0a508346afb7efbc6847ac0c47483817e14214b0695383531387587476d" data-pjax-transient="true" />
+  <meta name="request-id" content="D835:07F2:2F5F4B5:4E484D3:6194522C" data-pjax-transient="true" /><meta name="html-safe-nonce" content="df154453fe28713ab4e8e29ef6f4ed31ca4649f4b76ac6cad46d0dd23be4f202" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9yaGFnZWJvZWNrL0NPVklELVItV2ViLUFwcC90cmVlL21haW4vYnVpbGQiLCJyZXF1ZXN0X2lkIjoiRDgzNTowN0YyOjJGNUY0QjU6NEU0ODREMzo2MTk0NTIyQyIsInZpc2l0b3JfaWQiOiI0NzM1NDE2ODYzODQ2NDE5OTg0IiwicmVnaW9uX2VkZ2UiOiJpYWQiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-pjax-transient="true" /><meta name="visitor-hmac" content="c71164248b689be805cef1cd1bd6bb018e2c954e6f7347875c72ba018d1da14b" data-pjax-transient="true" />
 
     <meta name="hovercard-subject-tag" content="repository:423511752" data-pjax-transient>
 
@@ -155,7 +155,7 @@
 
       <meta name="expected-hostname" content="github.com">
 
-      <meta name="js-proxy-site-detection-payload" content="OTJmMTQ4NzBiZGQ2Zjg2MmRhZTk2NTlmOWI4OWY0MGYwNDI5OWEzNmFjYTRhYTcyYjhkOGU1Y2ZkY2QyNDU1ZHx7InJlbW90ZV9hZGRyZXNzIjoiNDcuMjI3LjI1MC4xMCIsInJlcXVlc3RfaWQiOiJEODM1OjA3RjI6MkY1RTlDNTo0RTQ3MkY4OjYxOTQ1MUEzIiwidGltZXN0YW1wIjoxNjM3MTEwMjkzLCJob3N0IjoiZ2l0aHViLmNvbSJ9">
+      <meta name="js-proxy-site-detection-payload" content="ZDlhYzdlZTk1ODg3NzJjYTU5NTVjMGVlZDhjMTQyZTI1MzYwZGVjYTRkYzMzNzRmNjg3ZWZlYjYzMTQ0ZjUyOXx7InJlbW90ZV9hZGRyZXNzIjoiNDcuMjI3LjI1MC4xMCIsInJlcXVlc3RfaWQiOiJEODM1OjA3RjI6MkY1RjRCNTo0RTQ4NEQzOjYxOTQ1MjJDIiwidGltZXN0YW1wIjoxNjM3MTEwMzI2LCJob3N0IjoiZ2l0aHViLmNvbSJ9">
         <meta name="keyboard-shortcuts-preference" content="all">
         <script type="application/json" id="memex_keyboard_shortcuts_preference">"all"</script>
 
@@ -174,7 +174,7 @@
 
 
 
-    <link rel="canonical" href="https://github.com/rhageboeck/COVID-R-Web-App/blob/main/build/asset-manifest.json" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/rhageboeck/COVID-R-Web-App/blob/main/build/precache-manifest.a18bf4707b225d8202c227299cfd3aa9.js" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -215,7 +215,7 @@
   href="https://github.com/"
   data-hotkey="g d"
   aria-label="Homepage "
-  data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;,&quot;originating_url&quot;:&quot;https://github.com/rhageboeck/COVID-R-Web-App/blob/main/build/asset-manifest.json&quot;,&quot;user_id&quot;:87343795}}" data-hydro-click-hmac="bb80bf25d24321ac34eee06995d4b46a28ae1e6d3fb1eb2ffd1ef8047b252a7f" data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;}"
+  data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;,&quot;originating_url&quot;:&quot;https://github.com/rhageboeck/COVID-R-Web-App/blob/main/build/precache-manifest.a18bf4707b225d8202c227299cfd3aa9.js&quot;,&quot;user_id&quot;:87343795}}" data-hydro-click-hmac="eb0ab846a7fdd718f73f5bef61672f11b9a28ca3fb3647d6869d8deb4072d351" data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;}"
 >
   <svg height="32" aria-hidden="true" viewBox="0 0 16 16" version="1.1" width="32" data-view-component="true" class="octicon octicon-mark-github v-align-middle">
     <path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path>
@@ -265,7 +265,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" value="Fu1hmP9iOLeDCBgYEXKSolN0wUUGptpBQrs6/re53unGM8MMrgKS+E4v/5EP89zaqkheOHyyjPrG3iWKIB/4kw==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+        <input type="hidden" value="9mtatZ+kstNFvr8az087ptmegk7N8OVcZz22DN2nsC0mtfghzsQYnIiZWJPRznXeIKIdM7fks+fjWKl4SgGWVw==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -472,7 +472,7 @@
     <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:workspaces context:user" data-selected-links="/codespaces /codespaces" href="/codespaces">
       Codespaces
 </a>
-      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;NLiuGitHub&quot;,&quot;originating_url&quot;:&quot;https://github.com/rhageboeck/COVID-R-Web-App/blob/main/build/asset-manifest.json&quot;,&quot;user_id&quot;:87343795}}" data-hydro-click-hmac="69bc47d0dfb6fbebc55a6f00614848ca98609477b84a767857da660e61f5e862" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
+      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;NLiuGitHub&quot;,&quot;originating_url&quot;:&quot;https://github.com/rhageboeck/COVID-R-Web-App/blob/main/build/precache-manifest.a18bf4707b225d8202c227299cfd3aa9.js&quot;,&quot;user_id&quot;:87343795}}" data-hydro-click-hmac="4d26ad79a01635e3ac2c69ec2c5d56a1d3452b56fc318cee1ba1ce95b6d1c684" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
 
     <a class="Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade" href="/settings/profile">
       Settings
@@ -481,12 +481,12 @@
       <img class="avatar avatar-user" loading="lazy" decoding="async" src="https://avatars.githubusercontent.com/u/87343795?s=40&amp;v=4" width="20" height="20" alt="@NLiuGitHub" />
       NLiuGitHub
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="/HaAFh8Y4uDfModsOo6RLHIXc+jn9hCJv031O3kBM1UpkpaBh9W0M5Sr+y6v5J/ks/R9HapQ7S57KHGifaIh8Q==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="wEqVJLJwpZGH8SAWe5/UTywrSWZVjqj0UMBoBuAu+j0VroOzKr3zQsxoXFTu9dqH7chHkxgoVVOUpeyf5I3omQ==" />
       <button
         type="submit"
         class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade d-md-none btn-link d-block width-full text-left"
         style="padding-left: 2px;"
-        data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;sign out&quot;,&quot;label&quot;:&quot;icon:logout&quot;,&quot;originating_url&quot;:&quot;https://github.com/rhageboeck/COVID-R-Web-App/blob/main/build/asset-manifest.json&quot;,&quot;user_id&quot;:87343795}}" data-hydro-click-hmac="c28ed04d93ce001da1bc54ea665baf4c4a3761ccb2d637bb589c4d18b0e36e91" data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;sign out&quot;,&quot;label&quot;:&quot;icon:logout&quot;}"
+        data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;sign out&quot;,&quot;label&quot;:&quot;icon:logout&quot;,&quot;originating_url&quot;:&quot;https://github.com/rhageboeck/COVID-R-Web-App/blob/main/build/precache-manifest.a18bf4707b225d8202c227299cfd3aa9.js&quot;,&quot;user_id&quot;:87343795}}" data-hydro-click-hmac="d0c0fb2d0f3418828a437cca64af494e70bb4eb71c98f68a9c0d18db2953dfee" data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;sign out&quot;,&quot;label&quot;:&quot;icon:logout&quot;}"
       >
         <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-sign-out v-align-middle">
     <path fill-rule="evenodd" d="M2 2.75C2 1.784 2.784 1 3.75 1h2.5a.75.75 0 010 1.5h-2.5a.25.25 0 00-.25.25v10.5c0 .138.112.25.25.25h2.5a.75.75 0 010 1.5h-2.5A1.75 1.75 0 012 13.25V2.75zm10.44 4.5H6.75a.75.75 0 000 1.5h5.69l-1.97 1.97a.75.75 0 101.06 1.06l3.25-3.25a.75.75 0 000-1.06l-3.25-3.25a.75.75 0 10-1.06 1.06l1.97 1.97z"></path>
@@ -503,7 +503,7 @@
   href="https://github.com/"
   data-hotkey="g d"
   aria-label="Homepage "
-  data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;,&quot;originating_url&quot;:&quot;https://github.com/rhageboeck/COVID-R-Web-App/blob/main/build/asset-manifest.json&quot;,&quot;user_id&quot;:87343795}}" data-hydro-click-hmac="bb80bf25d24321ac34eee06995d4b46a28ae1e6d3fb1eb2ffd1ef8047b252a7f" data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;}"
+  data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;,&quot;originating_url&quot;:&quot;https://github.com/rhageboeck/COVID-R-Web-App/blob/main/build/precache-manifest.a18bf4707b225d8202c227299cfd3aa9.js&quot;,&quot;user_id&quot;:87343795}}" data-hydro-click-hmac="eb0ab846a7fdd718f73f5bef61672f11b9a28ca3fb3647d6869d8deb4072d351" data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;}"
 >
   <svg height="32" aria-hidden="true" viewBox="0 0 16 16" version="1.1" width="32" data-view-component="true" class="octicon octicon-mark-github v-align-middle">
     <path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path>
@@ -519,7 +519,7 @@
       <notification-indicator
         class="js-socket-channel"
         data-test-selector="notifications-indicator"
-        data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6ODczNDM3OTUiLCJ0IjoxNjM3MTEwMjkzfQ==--81da616ed38e277cf2d8ab3d39de25eff1269d49f3fb5f78e1c298933b35de69">
+        data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6ODczNDM3OTUiLCJ0IjoxNjM3MTEwMzI2fQ==--6e83bc05c2bcb284d3d32af31f02f1b5aa9d2fde112bb94b4ee43043fcb4ff59">
         <a href="/notifications"
           class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
           
@@ -542,7 +542,7 @@
   <summary
     class="Header-link"
     aria-label="Create new…"
-    data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;create new&quot;,&quot;label&quot;:&quot;icon:add&quot;,&quot;originating_url&quot;:&quot;https://github.com/rhageboeck/COVID-R-Web-App/blob/main/build/asset-manifest.json&quot;,&quot;user_id&quot;:87343795}}" data-hydro-click-hmac="a738af9614160ff8a218765163e18bbeb2cf47a927d77f2ee81d676063aab9f3" data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;create new&quot;,&quot;label&quot;:&quot;icon:add&quot;}"
+    data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;create new&quot;,&quot;label&quot;:&quot;icon:add&quot;,&quot;originating_url&quot;:&quot;https://github.com/rhageboeck/COVID-R-Web-App/blob/main/build/precache-manifest.a18bf4707b225d8202c227299cfd3aa9.js&quot;,&quot;user_id&quot;:87343795}}" data-hydro-click-hmac="7870576250f87964bd5ff260983aed7b759e274bdd0c68dfe9635a9088a42127" data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;create new&quot;,&quot;label&quot;:&quot;icon:add&quot;}"
   >
       <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-plus">
     <path fill-rule="evenodd" d="M7.75 2a.75.75 0 01.75.75V7h4.25a.75.75 0 110 1.5H8.5v4.25a.75.75 0 11-1.5 0V8.5H2.75a.75.75 0 010-1.5H7V2.75A.75.75 0 017.75 2z"></path>
@@ -580,7 +580,7 @@
   <summary
     class="Header-link"
     aria-label="View profile and more"
-    data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;show menu&quot;,&quot;label&quot;:&quot;icon:avatar&quot;,&quot;originating_url&quot;:&quot;https://github.com/rhageboeck/COVID-R-Web-App/blob/main/build/asset-manifest.json&quot;,&quot;user_id&quot;:87343795}}" data-hydro-click-hmac="80970cff9341283ae1f9e602fd39a76ca754752d3ca04104f9c4e6b1a1fd6a0f" data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;show menu&quot;,&quot;label&quot;:&quot;icon:avatar&quot;}"
+    data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;show menu&quot;,&quot;label&quot;:&quot;icon:avatar&quot;,&quot;originating_url&quot;:&quot;https://github.com/rhageboeck/COVID-R-Web-App/blob/main/build/precache-manifest.a18bf4707b225d8202c227299cfd3aa9.js&quot;,&quot;user_id&quot;:87343795}}" data-hydro-click-hmac="6e85e1dfd4438894b4a6af7592e52210647c409bcfed3e00575d9e8131e3a9c3" data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;show menu&quot;,&quot;label&quot;:&quot;icon:avatar&quot;}"
   >
     <img src="https://avatars.githubusercontent.com/u/87343795?s=40&amp;v=4" alt="@NLiuGitHub" size="20" height="20" width="20" data-view-component="true" class="avatar avatar-small circle"></img>
       <span class="feature-preview-indicator js-feature-preview-indicator" style="top: 1px;" hidden></span>
@@ -654,14 +654,14 @@
   <details-dialog class="command-palette-details-dialog d-flex flex-column flex-justify-center height-fit">
     <command-palette
       class="command-palette color-bg-default rounded-3"
-      data-return-to=/rhageboeck/COVID-R-Web-App/blob/main/build/asset-manifest.json
+      data-return-to=/rhageboeck/COVID-R-Web-App/blob/main/build/precache-manifest.a18bf4707b225d8202c227299cfd3aa9.js
       data-user-id="87343795"
       >
-      <input type="hidden" value="+przLW50oGfSG+mg53gZgvaDV/+YwvLEL640EFSAC7B2SD0/DRU/F8kqs6ykjY257ceGAepfs+v7HkvNqIfWhw==" data-csrf="true" class="js-graphql-csrf" />
+      <input type="hidden" value="mMGpgEmEkUFCSgMhF+axCUj2Xl36islV9MOHSzZ4p9gUE2eSKuUOMVl7WS1UEyUyU7KPo4gXiHogc/iWyn967w==" data-csrf="true" class="js-graphql-csrf" />
       <iframe class="d-none js-command-palette-commands" sandbox="allow-scripts allow-same-origin" srcdoc="<script crossorigin=&quot;anonymous&quot; defer=&quot;defer&quot; integrity=&quot;sha512-QlLlS61ztNDX0MakiMw8Co2H4lwwWxBjEux0TXwYeRxNqomMtm5SWMesEKum2gowVBnTnVaG9IqV5fCMSTa9Jg==&quot; type=&quot;application/javascript&quot; src=&quot;https://github.githubassets.com/assets/command-runner-4252e54b.js&quot;></script>
 " aria-hidden="true"></iframe>
       <input type="hidden" name="color-mode-path" id="color-mode-path" value="/settings/appearance/color_mode" class="js-color-mode-path" autocomplete="off" />
-      <input type="hidden" value="7i2cRUzsnVZRhPGohOX0w+ZvaTwU9ycpUuDyY0mmtLfdMQPBclMwjSIFvo18966Ct2yD4QJ6JQo4USp4Ruvxcg==" data-csrf="true" class="js-color-mode-csrf" />
+      <input type="hidden" value="Gx7BEZu7+IH71T6sdr/nZBgneIRy8NF9ZAn6s9uVU6goAl6VpQRVWohUcYmOrb0lSSSSWWR9014OuCKo1NgWbQ==" data-csrf="true" class="js-color-mode-csrf" />
 
         <command-palette-mode
           data-char="#"
@@ -1326,7 +1326,7 @@
         data-action="toggle:notifications-list-subscription-form#detailsToggled"
       >
 
-      <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:423511752,&quot;originating_url&quot;:&quot;https://github.com/rhageboeck/COVID-R-Web-App/blob/main/build/asset-manifest.json&quot;,&quot;user_id&quot;:87343795}}" data-hydro-click-hmac="59ca46c34b8319215eafd9be1b778bff64356dfa92cb660f5595abae918bb568" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" role="button" data-view-component="true" class="rounded-right-0 btn-sm btn">
+      <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:423511752,&quot;originating_url&quot;:&quot;https://github.com/rhageboeck/COVID-R-Web-App/blob/main/build/precache-manifest.a18bf4707b225d8202c227299cfd3aa9.js&quot;,&quot;user_id&quot;:87343795}}" data-hydro-click-hmac="7d0bcb6e8e4af38606219e43b1dbfcc8087cc6816f1ea6a39051691efb8663cc" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" role="button" data-view-component="true" class="rounded-right-0 btn-sm btn">
   
   
           <span data-menu-button>
@@ -1383,7 +1383,7 @@
             </header>
 
             <div class="SelectMenu-list">
-              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="tetpNNCWAySt4bGce9AQZfrHBvzRpZ4wa2DYegD6HqnomRb1r42qSTgwpzCEdL5XPEKdLysVadRzwE+226QStw==" autocomplete="off" />
+              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="rLEQurc23JJMMsV4gA7CR3OsX7YqE8mijEzt063FlO3xw297yC11/9nj09R/qmx1tSnEZdCjPkaU7HofdpuY8w==" autocomplete="off" />
 
                 <input type="hidden" name="repository_id" value="423511752">
 
@@ -1506,7 +1506,7 @@
 
         <details-dialog class="notifications-component-dialog " data-target="notifications-list-subscription-form.customDialog" hidden>
           <div class="SelectMenu-modal notifications-component-dialog-modal overflow-visible">
-            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="1xsmMrPnNPFw/1CvDh2dWXN26Yy9Y20UNs3gzUBsG1+KaVnzzPydnOUuRgPxuTNrtfNyX0fTmvAubXcBmzIXQQ==" autocomplete="off" />
+            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="u1Y1ACaHZfjdu5SRGOcrPVZFIR+g3asej/5j+XRgP6bmJErBWZzMlUhqgj3nQ4UPkMC6zFptXPqXXvQ1rz4zuA==" autocomplete="off" />
 
               <input type="hidden" name="repository_id" value="423511752">
 
@@ -1664,9 +1664,9 @@
 
     <li>
           <div class="js-toggler-container js-social-container starring-container d-block">
-    <form class="starred js-social-form" action="/rhageboeck/COVID-R-Web-App/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="ilbCjojDeJP56n1kkDbX7oHgxfFSlTnoeby31nlEs9nzDX2yCXEGrvlmV8QL6Z/lSjTZHnCkTfvE65tiM6T6gA==" autocomplete="off" />
+    <form class="starred js-social-form" action="/rhageboeck/COVID-R-Web-App/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="hkI1ffNRtFLFhbmfGmtBGd+VCenTJBKaK3Gw2Zkr0an/GYpBcuPKb8UJkz+BtAkSFEEVBvEVZomWJpxt08uY8A==" autocomplete="off" />
       <input type="hidden" name="context" value="repository">
-      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:423511752,&quot;originating_url&quot;:&quot;https://github.com/rhageboeck/COVID-R-Web-App/blob/main/build/asset-manifest.json&quot;,&quot;user_id&quot;:87343795}}" data-hydro-click-hmac="82310223472f85cbbc08b1f0b8677f05fc14c346a28fd92287a989496e3f8e2b" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository" type="submit" data-view-component="true" class="js-toggler-target btn-with-count btn-sm btn">
+      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:423511752,&quot;originating_url&quot;:&quot;https://github.com/rhageboeck/COVID-R-Web-App/blob/main/build/precache-manifest.a18bf4707b225d8202c227299cfd3aa9.js&quot;,&quot;user_id&quot;:87343795}}" data-hydro-click-hmac="2b8ef6943017e7b5967eaf7632b3b0f54e274fc7bdc47fbb41cfc42f34d98b80" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository" type="submit" data-view-component="true" class="js-toggler-target btn-with-count btn-sm btn">
   <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill mr-1">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path>
 </svg>
@@ -1686,9 +1686,9 @@
            0
         </a>
 </form>
-    <form class="unstarred js-social-form" action="/rhageboeck/COVID-R-Web-App/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="ffEdp3++lEzUD43bHIwDyJn6E+aZhjU3qYQK91tNn5HbTfxJjagNGLZXPKCj8WBka1xRaneF4WIjB9BB8/d/Sw==" autocomplete="off" />
+    <form class="unstarred js-social-form" action="/rhageboeck/COVID-R-Web-App/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="1DuPr3fUAhFjj/q33B/3FNHb04sGZ/GwNJ2+a4WjhMhyh25BhcKbRQHXS8xjYpS4I32RB+hkJeW+HmTdLRlkEg==" autocomplete="off" />
       <input type="hidden" name="context" value="repository">
-      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:423511752,&quot;originating_url&quot;:&quot;https://github.com/rhageboeck/COVID-R-Web-App/blob/main/build/asset-manifest.json&quot;,&quot;user_id&quot;:87343795}}" data-hydro-click-hmac="33a7c5899b28006b7e2858b83e3775811917ed6c6ab0734a9cb5959f05c3dbb0" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository" type="submit" data-view-component="true" class="js-toggler-target btn-with-count btn-sm btn">
+      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:423511752,&quot;originating_url&quot;:&quot;https://github.com/rhageboeck/COVID-R-Web-App/blob/main/build/precache-manifest.a18bf4707b225d8202c227299cfd3aa9.js&quot;,&quot;user_id&quot;:87343795}}" data-hydro-click-hmac="f431d5427009414df34353e7851f0b892baa88211232e2e492be18785dfc6cfc" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository" type="submit" data-view-component="true" class="js-toggler-target btn-with-count btn-sm btn">
   <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star mr-1">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path>
 </svg>
@@ -1713,8 +1713,8 @@
     </li>
 
     <li>
-              <form class="btn-with-count" action="/rhageboeck/COVID-R-Web-App/fork" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="eP6ygVW82D2SMvpBoFBz0nr8q+KTFQH+ALGwz9+uvybYosDIBAx6FzO62jVCIF6aZyV/ehunJgn3fMCpH1Z0LA==" autocomplete="off" />
-        <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:423511752,&quot;originating_url&quot;:&quot;https://github.com/rhageboeck/COVID-R-Web-App/blob/main/build/asset-manifest.json&quot;,&quot;user_id&quot;:87343795}}" data-hydro-click-hmac="99d0d174c23e1b794b75e9f1ae8123eb5a63b2c85dc089c5d632c71da3335f0b" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" aria-label="Fork your own copy of rhageboeck/COVID-R-Web-App to your account" type="submit" data-view-component="true" class="btn-with-count btn-sm btn">
+              <form class="btn-with-count" action="/rhageboeck/COVID-R-Web-App/fork" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="eJ4ZS6P+hFHvBCnYD0i8EHvSHGtLFXAYc5219z/NbW/YwmsC8k4me06MCaztOJFYZgvI88OnV++EUMWR/zWmZQ==" autocomplete="off" />
+        <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:423511752,&quot;originating_url&quot;:&quot;https://github.com/rhageboeck/COVID-R-Web-App/blob/main/build/precache-manifest.a18bf4707b225d8202c227299cfd3aa9.js&quot;,&quot;user_id&quot;:87343795}}" data-hydro-click-hmac="2f9bfb7fd1d3739fee3029ee0ed379a5b83545702bb3fa732b17e2cb59019522" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" aria-label="Fork your own copy of rhageboeck/COVID-R-Web-App to your account" type="submit" data-view-component="true" class="btn-with-count btn-sm btn">
   <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked">
     <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path>
 </svg>
@@ -1914,7 +1914,7 @@
   
 
 
-    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/rhageboeck/COVID-R-Web-App/blob/67282d9a7c4ccf4ff6aca36cb58564d05a6631b9/build/asset-manifest.json">Permalink</a>
+    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/rhageboeck/COVID-R-Web-App/blob/67282d9a7c4ccf4ff6aca36cb58564d05a6631b9/build/precache-manifest.a18bf4707b225d8202c227299cfd3aa9.js">Permalink</a>
 
     <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
       
@@ -1984,10 +1984,10 @@
             </template>
 
               <template data-target="ref-selector.noMatchTemplate">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/rhageboeck/COVID-R-Web-App/branches" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="YecTWjFv4gtYp0nZCRsba/uZqbBdGv0/WDQvpWyllKOex8waARITqV2dqIEUrglU8v/glSx9b8NoYN9c5E4GFw==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/rhageboeck/COVID-R-Web-App/branches" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="SbhxYKOqYp4XIU5R7I7mnWcnbLw719qMQCsBQCAodfO2mK4gk9eTPBIbrwnxO/SibkElmUqwSHBwf/G5qMPnRw==" />
       <input type="hidden" name="name" value="{{ refName }}">
       <input type="hidden" name="branch"  value="main">
-      <input type="hidden" name="path_binary" value="YnVpbGQvYXNzZXQtbWFuaWZlc3QuanNvbg==">
+      <input type="hidden" name="path_binary" value="YnVpbGQvcHJlY2FjaGUtbWFuaWZlc3QuYTE4YmY0NzA3YjIyNWQ4MjAyYzIyNzI5OWNmZDNhYTkuanM=">
 
       <button class="SelectMenu-item wb-break-word" type="submit" role="menuitem" data-index="{{ index }}">
         <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-branch SelectMenu-icon flex-self-baseline">
@@ -2015,7 +2015,7 @@
             </div>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/rhageboeck/COVID-R-Web-App/blob/{{ urlEncodedRefName }}/build/asset-manifest.json" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/rhageboeck/COVID-R-Web-App/blob/{{ urlEncodedRefName }}/build/precache-manifest.a18bf4707b225d8202c227299cfd3aa9.js" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2055,7 +2055,7 @@
             </template>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/rhageboeck/COVID-R-Web-App/blob/{{ urlEncodedRefName }}/build/asset-manifest.json" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/rhageboeck/COVID-R-Web-App/blob/{{ urlEncodedRefName }}/build/precache-manifest.a18bf4707b225d8202c227299cfd3aa9.js" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2089,7 +2089,54 @@
 </div>
 
       <h2 id="blob-path" class="breadcrumb flex-auto flex-self-center min-width-0 text-normal mx-2 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-        <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/rhageboeck/COVID-R-Web-App"><span>COVID-R-Web-App</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/rhageboeck/COVID-R-Web-App/tree/main/build"><span>build</span></a></span><span class="separator">/</span><strong class="final-path">asset-manifest.json</strong>
+        <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/rhageboeck/COVID-R-Web-App"><span>COVID-R-Web-App</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/rhageboeck/COVID-R-Web-App/tree/main/build"><span>build</span></a></span><span class="separator">/</span><strong class="final-path">precache-manifest.a18bf4707b225d8202c227299cfd3aa9.js</strong>
+          <span class="separator">/</span><details class="details-reset details-overlay d-inline" id="jumpto-symbol-select-menu">
+  <summary aria-haspopup="true" data-hotkey="r" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.click_on_blob_definitions&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;click_on_blob_definitions&quot;,&quot;repository_id&quot;:423511752,&quot;ref&quot;:&quot;main&quot;,&quot;language&quot;:&quot;JavaScript&quot;,&quot;originating_url&quot;:&quot;https://github.com/rhageboeck/COVID-R-Web-App/blob/main/build/precache-manifest.a18bf4707b225d8202c227299cfd3aa9.js&quot;,&quot;user_id&quot;:87343795}}" data-hydro-click-hmac="d05a9f1c48ad2a7adabae1391f1bf40a50ef205872eee826742f8ad02cc9aca5" role="button" data-view-component="true" class="Link--secondary css-truncate btn-link">
+  
+  
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
+    <path fill-rule="evenodd" d="M4.72 3.22a.75.75 0 011.06 1.06L2.06 8l3.72 3.72a.75.75 0 11-1.06 1.06L.47 8.53a.75.75 0 010-1.06l4.25-4.25zm6.56 0a.75.75 0 10-1.06 1.06L13.94 8l-3.72 3.72a.75.75 0 101.06 1.06l4.25-4.25a.75.75 0 000-1.06l-4.25-4.25z"></path>
+</svg>
+    <span data-menu-button>Jump to</span>
+    <span class="dropdown-caret"></span>
+
+  
+
+</summary>  <details-menu class="SelectMenu SelectMenu--hasFilter" role="menu">
+    <div class="SelectMenu-modal">
+      <header class="SelectMenu-header">
+        <span class="SelectMenu-title">Code definitions</span>
+        <button class="SelectMenu-closeButton" type="button" data-toggle-for="jumpto-symbol-select-menu">
+          <svg aria-label="Close menu" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
+    <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
+</svg>
+        </button>
+      </header>
+        <div class="SelectMenu-filter">
+          <input
+            class="SelectMenu-input form-control js-filterable-field"
+            id="jumpto-symbols-filter-field"
+            type="text"
+            autocomplete="off"
+            spellcheck="false"
+            autofocus
+            placeholder="Filter definitions"
+            aria-label="Filter definitions">
+        </div>
+      <div class="SelectMenu-list">
+        <div data-filterable-for="jumpto-symbols-filter-field" data-filterable-type="substring">
+        </div>
+      </div>
+      <footer class="SelectMenu-footer">
+        <div class="d-flex flex-justify-between">
+          Code navigation index up-to-date
+          <svg class="octicon octicon-dot-fill text-green" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+        </div>
+      </footer>
+    </div>
+  </details-menu>
+</details>
+
       </h2>
       <a href="/rhageboeck/COVID-R-Web-App/find/main"
             class="js-pjax-capture-input btn mr-2 d-none d-md-block"
@@ -2110,7 +2157,7 @@
 </summary>
   <div data-view-component="true">          <ul class="dropdown-menu dropdown-menu-sw">
             <li class="d-block d-md-none">
-              <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:423511752,&quot;originating_url&quot;:&quot;https://github.com/rhageboeck/COVID-R-Web-App/blob/main/build/asset-manifest.json&quot;,&quot;user_id&quot;:87343795}}" data-hydro-click-hmac="70a992f37450952ae4f8ccbcc0afe1bf9a4e93f0731d178d91f8af9300c41909" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/rhageboeck/COVID-R-Web-App/find/main">
+              <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:423511752,&quot;originating_url&quot;:&quot;https://github.com/rhageboeck/COVID-R-Web-App/blob/main/build/precache-manifest.a18bf4707b225d8202c227299cfd3aa9.js&quot;,&quot;user_id&quot;:87343795}}" data-hydro-click-hmac="624137f129935daca44475dbfe063e12c583fd90cd1bd0f197397bd5dce64af5" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/rhageboeck/COVID-R-Web-App/find/main">
                 <span class="flex-auto">Go to file</span>
                 <span class="text-small color-fg-muted" aria-hidden="true">T</span>
 </a>            </li>
@@ -2126,15 +2173,27 @@
   
 
 </button>            </li>
+            <li data-toggle-for="blob-more-options-details">
+              <button data-toggle-for="jumpto-symbol-select-menu" type="button" data-view-component="true" class="dropdown-item btn-link">
+  
+  
+                <span class="d-flex flex-items-baseline">
+                  <span class="flex-auto">Go to definition</span>
+                  <span class="text-small color-fg-muted" aria-hidden="true">R</span>
+                </span>
+
+  
+
+</button>            </li>
             <li class="dropdown-divider" role="none"></li>
             <li>
-              <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="build/asset-manifest.json" data-view-component="true" class="dropdown-item cursor-pointer">
+              <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="build/precache-manifest.a18bf4707b225d8202c227299cfd3aa9.js" data-view-component="true" class="dropdown-item cursor-pointer">
     
                 Copy path
 
 </clipboard-copy>            </li>
             <li>
-              <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/rhageboeck/COVID-R-Web-App/blob/67282d9a7c4ccf4ff6aca36cb58564d05a6631b9/build/asset-manifest.json" data-view-component="true" class="dropdown-item cursor-pointer">
+              <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/rhageboeck/COVID-R-Web-App/blob/67282d9a7c4ccf4ff6aca36cb58564d05a6631b9/build/precache-manifest.a18bf4707b225d8202c227299cfd3aa9.js" data-view-component="true" class="dropdown-item cursor-pointer">
     
                 <span class="d-flex flex-items-baseline">
                   <span class="flex-auto">Copy permalink</span>
@@ -2149,7 +2208,7 @@
 
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-      <include-fragment src="/rhageboeck/COVID-R-Web-App/contributors/main/build/asset-manifest.json" class="commit-loader">
+      <include-fragment src="/rhageboeck/COVID-R-Web-App/contributors/main/build/precache-manifest.a18bf4707b225d8202c227299cfd3aa9.js" class="commit-loader">
         <div class="Box-header d-flex flex-items-center">
           <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
           <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
@@ -2183,22 +2242,22 @@
 
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1">
 
-      28 lines (28 sloc)
+      38 lines (38 sloc)
       <span class="file-info-divider"></span>
-    1.55 KB
+    1 KB
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between hide-sm hide-md">
       
 
     <div class="BtnGroup">
-      <a href="/rhageboeck/COVID-R-Web-App/raw/main/build/asset-manifest.json" id="raw-url" role="button" data-view-component="true" class="btn-sm btn BtnGroup-item">
+      <a href="/rhageboeck/COVID-R-Web-App/raw/main/build/precache-manifest.a18bf4707b225d8202c227299cfd3aa9.js" id="raw-url" role="button" data-view-component="true" class="btn-sm btn BtnGroup-item">
   
   Raw
   
 
 </a>
-        <a href="/rhageboeck/COVID-R-Web-App/blame/main/build/asset-manifest.json" data-hotkey="b" role="button" data-view-component="true" class="js-update-url-with-hash btn-sm btn BtnGroup-item">
+        <a href="/rhageboeck/COVID-R-Web-App/blame/main/build/precache-manifest.a18bf4707b225d8202c227299cfd3aa9.js" data-hotkey="b" role="button" data-view-component="true" class="js-update-url-with-hash btn-sm btn BtnGroup-item">
   
   Blame
   
@@ -2217,11 +2276,11 @@
 </svg>
           </a>
 
-        <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/rhageboeck/COVID-R-Web-App/raw/main/build/asset-manifest.json" data-action="click:remote-clipboard-copy#remoteCopy">
+        <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/rhageboeck/COVID-R-Web-App/raw/main/build/precache-manifest.a18bf4707b225d8202c227299cfd3aa9.js" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
 
-  <span data-target="remote-clipboard-copy.idle">            <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:423511752,&quot;originating_url&quot;:&quot;https://github.com/rhageboeck/COVID-R-Web-App/blob/main/build/asset-manifest.json&quot;,&quot;user_id&quot;:87343795}}" data-hydro-click-hmac="c6d7164524cafd4f067c378279614a9476aeac1ac6cd09b3ad526d6a9c92d640" aria-label="Copy raw contents">
+  <span data-target="remote-clipboard-copy.idle">            <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:423511752,&quot;originating_url&quot;:&quot;https://github.com/rhageboeck/COVID-R-Web-App/blob/main/build/precache-manifest.a18bf4707b225d8202c227299cfd3aa9.js&quot;,&quot;user_id&quot;:87343795}}" data-hydro-click-hmac="fefe869c2705360110834c63a81a62af051f076b0c7d7111f46c6267db8fe843" aria-label="Copy raw contents">
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy">
     <path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path>
 </svg>
@@ -2247,7 +2306,7 @@
             </span>
 </span>
 </remote-clipboard-copy>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/rhageboeck/COVID-R-Web-App/edit/main/build/asset-manifest.json" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="rY/4y6PysynAwbMqpMjAWbVF8LLGU/p2Pv2vO9lgCNhScxBJSUGjM2ZQIuMCkRst0PcMgJLV8J6mm2KwQhmMoA==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/rhageboeck/COVID-R-Web-App/edit/main/build/precache-manifest.a18bf4707b225d8202c227299cfd3aa9.js" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="RXVpKT74LtxyD1mVo7AlizRlcLdaf/f8W9uEuUK+qp1/IXT40t2gVY6wDAO1V/nPzApaB9vqjC7QyzW9hiECEQ==" />
             <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
               aria-label="Edit this file" data-hotkey="e" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
@@ -2255,7 +2314,7 @@
 </svg>
             </button>
 </form>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/rhageboeck/COVID-R-Web-App/delete/main/build/asset-manifest.json" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="9n5zq5R6vgsJ/Az38BPK/oLq89u/XziI9TeXbRFI1Dn3psmYElxCzu230Brqs6SNs+vej+8GRxYrk6o1F1qgwA==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/rhageboeck/COVID-R-Web-App/delete/main/build/precache-manifest.a18bf4707b225d8202c227299cfd3aa9.js" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="M02fkchnbES0bPMaZNP1b4rLeGqn3DOUamuGPjfeuW+UcfcPpxc9TtKprSY8//BOORD4nm1gl8vOekzgoXiTMg==" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Delete this file" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-trash">
@@ -2283,15 +2342,15 @@
                 </a>
             </li>
           <li>
-            <a class="dropdown-item" href="/rhageboeck/COVID-R-Web-App/raw/main/build/asset-manifest.json">
+            <a class="dropdown-item" href="/rhageboeck/COVID-R-Web-App/raw/main/build/precache-manifest.a18bf4707b225d8202c227299cfd3aa9.js">
               View raw
             </a>
           </li>
             <li>
-              <remote-clipboard-copy class="dropdown-item" data-src="/rhageboeck/COVID-R-Web-App/raw/main/build/asset-manifest.json" data-action="click:remote-clipboard-copy#remoteCopy">
+              <remote-clipboard-copy class="dropdown-item" data-src="/rhageboeck/COVID-R-Web-App/raw/main/build/precache-manifest.a18bf4707b225d8202c227299cfd3aa9.js" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
-  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:423511752,&quot;originating_url&quot;:&quot;https://github.com/rhageboeck/COVID-R-Web-App/blob/main/build/asset-manifest.json&quot;,&quot;user_id&quot;:87343795}}" data-hydro-click-hmac="c6d7164524cafd4f067c378279614a9476aeac1ac6cd09b3ad526d6a9c92d640">
+  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:423511752,&quot;originating_url&quot;:&quot;https://github.com/rhageboeck/COVID-R-Web-App/blob/main/build/precache-manifest.a18bf4707b225d8202c227299cfd3aa9.js&quot;,&quot;user_id&quot;:87343795}}" data-hydro-click-hmac="fefe869c2705360110834c63a81a62af051f076b0c7d7111f46c6267db8fe843">
                     Copy raw contents
 </span></span>
   <span data-target="remote-clipboard-copy.fetching" hidden="hidden">                  Copy raw contents
@@ -2317,17 +2376,17 @@
 </span>
 </remote-clipboard-copy>            </li>
             <li>
-              <a class="dropdown-item" href="/rhageboeck/COVID-R-Web-App/blame/main/build/asset-manifest.json">
+              <a class="dropdown-item" href="/rhageboeck/COVID-R-Web-App/blame/main/build/precache-manifest.a18bf4707b225d8202c227299cfd3aa9.js">
                 View blame
               </a>
             </li>
 
               <li class="dropdown-divider" role="none"></li>
               <li>
-                <a class="dropdown-item" href="/rhageboeck/COVID-R-Web-App/edit/main/build/asset-manifest.json">Edit file</a>
+                <a class="dropdown-item" href="/rhageboeck/COVID-R-Web-App/edit/main/build/precache-manifest.a18bf4707b225d8202c227299cfd3aa9.js">Edit file</a>
               </li>
               <li>
-                <a class="dropdown-item menu-item-danger" href="/rhageboeck/COVID-R-Web-App/delete/main/build/asset-manifest.json">Delete file</a>
+                <a class="dropdown-item menu-item-danger" href="/rhageboeck/COVID-R-Web-App/delete/main/build/precache-manifest.a18bf4707b225d8202c227299cfd3aa9.js">Delete file</a>
               </li>
         </ul>
       </details>
@@ -2336,7 +2395,7 @@
 
 
       
-  <div itemprop="text" class="Box-body p-0 blob-wrapper data type-json  gist-border-0">
+  <div itemprop="text" class="Box-body p-0 blob-wrapper data type-javascript  gist-border-0">
 
       
 <div class="js-check-bidi blob-code-content">
@@ -2359,115 +2418,155 @@
   <table class="highlight tab-size js-file-line-container" data-tab-size="8" data-paste-markdown-skip>
         <tr>
           <td id="L1" class="blob-num js-line-number" data-line-number="1"></td>
-          <td id="LC1" class="blob-code blob-code-inner js-file-line">{</td>
+          <td id="LC1" class="blob-code blob-code-inner js-file-line"><span class=pl-s1>self</span><span class=pl-kos>.</span><span class=pl-c1>__precacheManifest</span> <span class=pl-c1>=</span> <span class=pl-kos>(</span><span class=pl-s1>self</span><span class=pl-kos>.</span><span class=pl-c1>__precacheManifest</span> <span class=pl-c1>||</span> <span class=pl-kos>[</span><span class=pl-kos>]</span><span class=pl-kos>)</span><span class=pl-kos>.</span><span class=pl-en>concat</span><span class=pl-kos>(</span><span class=pl-kos>[</span></td>
         </tr>
         <tr>
           <td id="L2" class="blob-num js-line-number" data-line-number="2"></td>
-          <td id="LC2" class="blob-code blob-code-inner js-file-line">  <span class="pl-ent">&quot;files&quot;</span>: {</td>
+          <td id="LC2" class="blob-code blob-code-inner js-file-line">  <span class=pl-kos>{</span></td>
         </tr>
         <tr>
           <td id="L3" class="blob-num js-line-number" data-line-number="3"></td>
-          <td id="LC3" class="blob-code blob-code-inner js-file-line">    <span class="pl-ent">&quot;main.css&quot;</span>: <span class="pl-s"><span class="pl-pds">&quot;</span>/COVID-R/static/css/main.ef34060d.chunk.css<span class="pl-pds">&quot;</span></span>,</td>
+          <td id="LC3" class="blob-code blob-code-inner js-file-line">    <span class=pl-s>&quot;revision&quot;</span>: <span class=pl-s>&quot;1c4d9f0bd74163bf8786206043c9f6ab&quot;</span><span class=pl-kos>,</span></td>
         </tr>
         <tr>
           <td id="L4" class="blob-num js-line-number" data-line-number="4"></td>
-          <td id="LC4" class="blob-code blob-code-inner js-file-line">    <span class="pl-ent">&quot;main.js&quot;</span>: <span class="pl-s"><span class="pl-pds">&quot;</span>/COVID-R/static/js/main.c8bb4dad.chunk.js<span class="pl-pds">&quot;</span></span>,</td>
+          <td id="LC4" class="blob-code blob-code-inner js-file-line">    <span class=pl-s>&quot;url&quot;</span>: <span class=pl-s>&quot;/COVID-R/index.html&quot;</span></td>
         </tr>
         <tr>
           <td id="L5" class="blob-num js-line-number" data-line-number="5"></td>
-          <td id="LC5" class="blob-code blob-code-inner js-file-line">    <span class="pl-ent">&quot;main.js.map&quot;</span>: <span class="pl-s"><span class="pl-pds">&quot;</span>/COVID-R/static/js/main.c8bb4dad.chunk.js.map<span class="pl-pds">&quot;</span></span>,</td>
+          <td id="LC5" class="blob-code blob-code-inner js-file-line">  <span class=pl-kos>}</span><span class=pl-kos>,</span></td>
         </tr>
         <tr>
           <td id="L6" class="blob-num js-line-number" data-line-number="6"></td>
-          <td id="LC6" class="blob-code blob-code-inner js-file-line">    <span class="pl-ent">&quot;runtime-main.js&quot;</span>: <span class="pl-s"><span class="pl-pds">&quot;</span>/COVID-R/static/js/runtime-main.0a6b3531.js<span class="pl-pds">&quot;</span></span>,</td>
+          <td id="LC6" class="blob-code blob-code-inner js-file-line">  <span class=pl-kos>{</span></td>
         </tr>
         <tr>
           <td id="L7" class="blob-num js-line-number" data-line-number="7"></td>
-          <td id="LC7" class="blob-code blob-code-inner js-file-line">    <span class="pl-ent">&quot;runtime-main.js.map&quot;</span>: <span class="pl-s"><span class="pl-pds">&quot;</span>/COVID-R/static/js/runtime-main.0a6b3531.js.map<span class="pl-pds">&quot;</span></span>,</td>
+          <td id="LC7" class="blob-code blob-code-inner js-file-line">    <span class=pl-s>&quot;revision&quot;</span>: <span class=pl-s>&quot;8e76b254d4fb17e8dddc&quot;</span><span class=pl-kos>,</span></td>
         </tr>
         <tr>
           <td id="L8" class="blob-num js-line-number" data-line-number="8"></td>
-          <td id="LC8" class="blob-code blob-code-inner js-file-line">    <span class="pl-ent">&quot;static/css/2.fa43bc9e.chunk.css&quot;</span>: <span class="pl-s"><span class="pl-pds">&quot;</span>/COVID-R/static/css/2.fa43bc9e.chunk.css<span class="pl-pds">&quot;</span></span>,</td>
+          <td id="LC8" class="blob-code blob-code-inner js-file-line">    <span class=pl-s>&quot;url&quot;</span>: <span class=pl-s>&quot;/COVID-R/static/css/2.fa43bc9e.chunk.css&quot;</span></td>
         </tr>
         <tr>
           <td id="L9" class="blob-num js-line-number" data-line-number="9"></td>
-          <td id="LC9" class="blob-code blob-code-inner js-file-line">    <span class="pl-ent">&quot;static/js/2.f3347eff.chunk.js&quot;</span>: <span class="pl-s"><span class="pl-pds">&quot;</span>/COVID-R/static/js/2.f3347eff.chunk.js<span class="pl-pds">&quot;</span></span>,</td>
+          <td id="LC9" class="blob-code blob-code-inner js-file-line">  <span class=pl-kos>}</span><span class=pl-kos>,</span></td>
         </tr>
         <tr>
           <td id="L10" class="blob-num js-line-number" data-line-number="10"></td>
-          <td id="LC10" class="blob-code blob-code-inner js-file-line">    <span class="pl-ent">&quot;static/js/2.f3347eff.chunk.js.map&quot;</span>: <span class="pl-s"><span class="pl-pds">&quot;</span>/COVID-R/static/js/2.f3347eff.chunk.js.map<span class="pl-pds">&quot;</span></span>,</td>
+          <td id="LC10" class="blob-code blob-code-inner js-file-line">  <span class=pl-kos>{</span></td>
         </tr>
         <tr>
           <td id="L11" class="blob-num js-line-number" data-line-number="11"></td>
-          <td id="LC11" class="blob-code blob-code-inner js-file-line">    <span class="pl-ent">&quot;static/js/3.85892264.chunk.js&quot;</span>: <span class="pl-s"><span class="pl-pds">&quot;</span>/COVID-R/static/js/3.85892264.chunk.js<span class="pl-pds">&quot;</span></span>,</td>
+          <td id="LC11" class="blob-code blob-code-inner js-file-line">    <span class=pl-s>&quot;revision&quot;</span>: <span class=pl-s>&quot;ea19588747b7dac8f953&quot;</span><span class=pl-kos>,</span></td>
         </tr>
         <tr>
           <td id="L12" class="blob-num js-line-number" data-line-number="12"></td>
-          <td id="LC12" class="blob-code blob-code-inner js-file-line">    <span class="pl-ent">&quot;static/js/3.85892264.chunk.js.map&quot;</span>: <span class="pl-s"><span class="pl-pds">&quot;</span>/COVID-R/static/js/3.85892264.chunk.js.map<span class="pl-pds">&quot;</span></span>,</td>
+          <td id="LC12" class="blob-code blob-code-inner js-file-line">    <span class=pl-s>&quot;url&quot;</span>: <span class=pl-s>&quot;/COVID-R/static/css/main.ef34060d.chunk.css&quot;</span></td>
         </tr>
         <tr>
           <td id="L13" class="blob-num js-line-number" data-line-number="13"></td>
-          <td id="LC13" class="blob-code blob-code-inner js-file-line">    <span class="pl-ent">&quot;index.html&quot;</span>: <span class="pl-s"><span class="pl-pds">&quot;</span>/COVID-R/index.html<span class="pl-pds">&quot;</span></span>,</td>
+          <td id="LC13" class="blob-code blob-code-inner js-file-line">  <span class=pl-kos>}</span><span class=pl-kos>,</span></td>
         </tr>
         <tr>
           <td id="L14" class="blob-num js-line-number" data-line-number="14"></td>
-          <td id="LC14" class="blob-code blob-code-inner js-file-line">    <span class="pl-ent">&quot;precache-manifest.a18bf4707b225d8202c227299cfd3aa9.js&quot;</span>: <span class="pl-s"><span class="pl-pds">&quot;</span>/COVID-R/precache-manifest.a18bf4707b225d8202c227299cfd3aa9.js<span class="pl-pds">&quot;</span></span>,</td>
+          <td id="LC14" class="blob-code blob-code-inner js-file-line">  <span class=pl-kos>{</span></td>
         </tr>
         <tr>
           <td id="L15" class="blob-num js-line-number" data-line-number="15"></td>
-          <td id="LC15" class="blob-code blob-code-inner js-file-line">    <span class="pl-ent">&quot;service-worker.js&quot;</span>: <span class="pl-s"><span class="pl-pds">&quot;</span>/COVID-R/service-worker.js<span class="pl-pds">&quot;</span></span>,</td>
+          <td id="LC15" class="blob-code blob-code-inner js-file-line">    <span class=pl-s>&quot;revision&quot;</span>: <span class=pl-s>&quot;8e76b254d4fb17e8dddc&quot;</span><span class=pl-kos>,</span></td>
         </tr>
         <tr>
           <td id="L16" class="blob-num js-line-number" data-line-number="16"></td>
-          <td id="LC16" class="blob-code blob-code-inner js-file-line">    <span class="pl-ent">&quot;static/css/2.fa43bc9e.chunk.css.map&quot;</span>: <span class="pl-s"><span class="pl-pds">&quot;</span>/COVID-R/static/css/2.fa43bc9e.chunk.css.map<span class="pl-pds">&quot;</span></span>,</td>
+          <td id="LC16" class="blob-code blob-code-inner js-file-line">    <span class=pl-s>&quot;url&quot;</span>: <span class=pl-s>&quot;/COVID-R/static/js/2.f3347eff.chunk.js&quot;</span></td>
         </tr>
         <tr>
           <td id="L17" class="blob-num js-line-number" data-line-number="17"></td>
-          <td id="LC17" class="blob-code blob-code-inner js-file-line">    <span class="pl-ent">&quot;static/css/main.ef34060d.chunk.css.map&quot;</span>: <span class="pl-s"><span class="pl-pds">&quot;</span>/COVID-R/static/css/main.ef34060d.chunk.css.map<span class="pl-pds">&quot;</span></span>,</td>
+          <td id="LC17" class="blob-code blob-code-inner js-file-line">  <span class=pl-kos>}</span><span class=pl-kos>,</span></td>
         </tr>
         <tr>
           <td id="L18" class="blob-num js-line-number" data-line-number="18"></td>
-          <td id="LC18" class="blob-code blob-code-inner js-file-line">    <span class="pl-ent">&quot;static/js/2.f3347eff.chunk.js.LICENSE.txt&quot;</span>: <span class="pl-s"><span class="pl-pds">&quot;</span>/COVID-R/static/js/2.f3347eff.chunk.js.LICENSE.txt<span class="pl-pds">&quot;</span></span>,</td>
+          <td id="LC18" class="blob-code blob-code-inner js-file-line">  <span class=pl-kos>{</span></td>
         </tr>
         <tr>
           <td id="L19" class="blob-num js-line-number" data-line-number="19"></td>
-          <td id="LC19" class="blob-code blob-code-inner js-file-line">    <span class="pl-ent">&quot;static/media/appicon.png&quot;</span>: <span class="pl-s"><span class="pl-pds">&quot;</span>/COVID-R/static/media/appicon.532e37fa.png<span class="pl-pds">&quot;</span></span></td>
+          <td id="LC19" class="blob-code blob-code-inner js-file-line">    <span class=pl-s>&quot;revision&quot;</span>: <span class=pl-s>&quot;91cce9e4ee97b754a94b3969b7630793&quot;</span><span class=pl-kos>,</span></td>
         </tr>
         <tr>
           <td id="L20" class="blob-num js-line-number" data-line-number="20"></td>
-          <td id="LC20" class="blob-code blob-code-inner js-file-line">  },</td>
+          <td id="LC20" class="blob-code blob-code-inner js-file-line">    <span class=pl-s>&quot;url&quot;</span>: <span class=pl-s>&quot;/COVID-R/static/js/2.f3347eff.chunk.js.LICENSE.txt&quot;</span></td>
         </tr>
         <tr>
           <td id="L21" class="blob-num js-line-number" data-line-number="21"></td>
-          <td id="LC21" class="blob-code blob-code-inner js-file-line">  <span class="pl-ent">&quot;entrypoints&quot;</span>: [</td>
+          <td id="LC21" class="blob-code blob-code-inner js-file-line">  <span class=pl-kos>}</span><span class=pl-kos>,</span></td>
         </tr>
         <tr>
           <td id="L22" class="blob-num js-line-number" data-line-number="22"></td>
-          <td id="LC22" class="blob-code blob-code-inner js-file-line">    <span class="pl-s"><span class="pl-pds">&quot;</span>static/js/runtime-main.0a6b3531.js<span class="pl-pds">&quot;</span></span>,</td>
+          <td id="LC22" class="blob-code blob-code-inner js-file-line">  <span class=pl-kos>{</span></td>
         </tr>
         <tr>
           <td id="L23" class="blob-num js-line-number" data-line-number="23"></td>
-          <td id="LC23" class="blob-code blob-code-inner js-file-line">    <span class="pl-s"><span class="pl-pds">&quot;</span>static/css/2.fa43bc9e.chunk.css<span class="pl-pds">&quot;</span></span>,</td>
+          <td id="LC23" class="blob-code blob-code-inner js-file-line">    <span class=pl-s>&quot;revision&quot;</span>: <span class=pl-s>&quot;fb6d55686ede549af560&quot;</span><span class=pl-kos>,</span></td>
         </tr>
         <tr>
           <td id="L24" class="blob-num js-line-number" data-line-number="24"></td>
-          <td id="LC24" class="blob-code blob-code-inner js-file-line">    <span class="pl-s"><span class="pl-pds">&quot;</span>static/js/2.f3347eff.chunk.js<span class="pl-pds">&quot;</span></span>,</td>
+          <td id="LC24" class="blob-code blob-code-inner js-file-line">    <span class=pl-s>&quot;url&quot;</span>: <span class=pl-s>&quot;/COVID-R/static/js/3.85892264.chunk.js&quot;</span></td>
         </tr>
         <tr>
           <td id="L25" class="blob-num js-line-number" data-line-number="25"></td>
-          <td id="LC25" class="blob-code blob-code-inner js-file-line">    <span class="pl-s"><span class="pl-pds">&quot;</span>static/css/main.ef34060d.chunk.css<span class="pl-pds">&quot;</span></span>,</td>
+          <td id="LC25" class="blob-code blob-code-inner js-file-line">  <span class=pl-kos>}</span><span class=pl-kos>,</span></td>
         </tr>
         <tr>
           <td id="L26" class="blob-num js-line-number" data-line-number="26"></td>
-          <td id="LC26" class="blob-code blob-code-inner js-file-line">    <span class="pl-s"><span class="pl-pds">&quot;</span>static/js/main.c8bb4dad.chunk.js<span class="pl-pds">&quot;</span></span></td>
+          <td id="LC26" class="blob-code blob-code-inner js-file-line">  <span class=pl-kos>{</span></td>
         </tr>
         <tr>
           <td id="L27" class="blob-num js-line-number" data-line-number="27"></td>
-          <td id="LC27" class="blob-code blob-code-inner js-file-line">  ]</td>
+          <td id="LC27" class="blob-code blob-code-inner js-file-line">    <span class=pl-s>&quot;revision&quot;</span>: <span class=pl-s>&quot;ea19588747b7dac8f953&quot;</span><span class=pl-kos>,</span></td>
         </tr>
         <tr>
           <td id="L28" class="blob-num js-line-number" data-line-number="28"></td>
-          <td id="LC28" class="blob-code blob-code-inner js-file-line">}</td>
+          <td id="LC28" class="blob-code blob-code-inner js-file-line">    <span class=pl-s>&quot;url&quot;</span>: <span class=pl-s>&quot;/COVID-R/static/js/main.c8bb4dad.chunk.js&quot;</span></td>
+        </tr>
+        <tr>
+          <td id="L29" class="blob-num js-line-number" data-line-number="29"></td>
+          <td id="LC29" class="blob-code blob-code-inner js-file-line">  <span class=pl-kos>}</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L30" class="blob-num js-line-number" data-line-number="30"></td>
+          <td id="LC30" class="blob-code blob-code-inner js-file-line">  <span class=pl-kos>{</span></td>
+        </tr>
+        <tr>
+          <td id="L31" class="blob-num js-line-number" data-line-number="31"></td>
+          <td id="LC31" class="blob-code blob-code-inner js-file-line">    <span class=pl-s>&quot;revision&quot;</span>: <span class=pl-s>&quot;24df89198c99dd5fe26c&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L32" class="blob-num js-line-number" data-line-number="32"></td>
+          <td id="LC32" class="blob-code blob-code-inner js-file-line">    <span class=pl-s>&quot;url&quot;</span>: <span class=pl-s>&quot;/COVID-R/static/js/runtime-main.0a6b3531.js&quot;</span></td>
+        </tr>
+        <tr>
+          <td id="L33" class="blob-num js-line-number" data-line-number="33"></td>
+          <td id="LC33" class="blob-code blob-code-inner js-file-line">  <span class=pl-kos>}</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L34" class="blob-num js-line-number" data-line-number="34"></td>
+          <td id="LC34" class="blob-code blob-code-inner js-file-line">  <span class=pl-kos>{</span></td>
+        </tr>
+        <tr>
+          <td id="L35" class="blob-num js-line-number" data-line-number="35"></td>
+          <td id="LC35" class="blob-code blob-code-inner js-file-line">    <span class=pl-s>&quot;revision&quot;</span>: <span class=pl-s>&quot;532e37fa51af45e2d664ddc7f22924a7&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L36" class="blob-num js-line-number" data-line-number="36"></td>
+          <td id="LC36" class="blob-code blob-code-inner js-file-line">    <span class=pl-s>&quot;url&quot;</span>: <span class=pl-s>&quot;/COVID-R/static/media/appicon.532e37fa.png&quot;</span></td>
+        </tr>
+        <tr>
+          <td id="L37" class="blob-num js-line-number" data-line-number="37"></td>
+          <td id="LC37" class="blob-code blob-code-inner js-file-line">  <span class=pl-kos>}</span></td>
+        </tr>
+        <tr>
+          <td id="L38" class="blob-num js-line-number" data-line-number="38"></td>
+          <td id="LC38" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>]</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
         </tr>
   </table>
 </div>
@@ -2493,7 +2592,7 @@
             Copy permalink
           </clipboard-copy>
         </li>
-        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/rhageboeck/COVID-R-Web-App/blame/67282d9a7c4ccf4ff6aca36cb58564d05a6631b9/build/asset-manifest.json">View git blame</a></li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/rhageboeck/COVID-R-Web-App/blame/67282d9a7c4ccf4ff6aca36cb58564d05a6631b9/build/precache-manifest.a18bf4707b225d8202c227299cfd3aa9.js">View git blame</a></li>
           <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/rhageboeck/COVID-R-Web-App/issues/new">Reference in new issue</a></li>
       </ul>
     </details-menu>
@@ -2520,6 +2619,20 @@
 </form>    </details-dialog>
   </details>
 
+    <div class="Popover anim-scale-in js-tagsearch-popover"
+     hidden
+     data-tagsearch-url="/rhageboeck/COVID-R-Web-App/find-definition"
+     data-tagsearch-ref="main"
+     data-tagsearch-path="build/precache-manifest.a18bf4707b225d8202c227299cfd3aa9.js"
+     data-tagsearch-lang="JavaScript"
+     data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.click_on_symbol&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;click_on_symbol&quot;,&quot;repository_id&quot;:423511752,&quot;ref&quot;:&quot;main&quot;,&quot;language&quot;:&quot;JavaScript&quot;,&quot;originating_url&quot;:&quot;https://github.com/rhageboeck/COVID-R-Web-App/blob/main/build/precache-manifest.a18bf4707b225d8202c227299cfd3aa9.js&quot;,&quot;user_id&quot;:87343795}}"
+     data-hydro-click-hmac="9503e1b267646be19f918169d948ec751e48f762e4ee388e02cbdbae980a54fd">
+  <div class="Popover-message Popover-message--large Popover-message--top-left TagsearchPopover mt-1 mb-4 mx-auto Box color-shadow-large">
+    <div class="TagsearchPopover-content js-tagsearch-popover-content overflow-auto" style="will-change:transform;">
+    </div>
+  </div>
+</div>
+
 
 </div>
 
@@ -2538,10 +2651,10 @@
   <div class="position-relative d-flex flex-row-reverse flex-lg-row flex-wrap flex-lg-nowrap flex-justify-center flex-lg-justify-between pt-6 pb-2 mt-6 f6 color-fg-muted border-top color-border-muted ">
     <ul class="list-style-none d-flex flex-wrap col-12 col-lg-5 flex-justify-center flex-lg-justify-between mb-2 mb-lg-0">
       <li class="mr-3 mr-lg-0">&copy; 2021 GitHub, Inc.</li>
-        <li class="mr-3 mr-lg-0"><a href="https://docs.github.com/en/github/site-policy/github-terms-of-service" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to terms&quot;,&quot;label&quot;:&quot;text:terms&quot;,&quot;originating_url&quot;:&quot;https://github.com/rhageboeck/COVID-R-Web-App/blob/main/build/asset-manifest.json&quot;,&quot;user_id&quot;:87343795}}" data-hydro-click-hmac="79916666247c14ddbb79c627715e2f07e304ba5d3d6fd70575859260106065b2" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to terms&quot;,&quot;label&quot;:&quot;text:terms&quot;}">Terms</a></li>
-        <li class="mr-3 mr-lg-0"><a href="https://docs.github.com/en/github/site-policy/github-privacy-statement" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to privacy&quot;,&quot;label&quot;:&quot;text:privacy&quot;,&quot;originating_url&quot;:&quot;https://github.com/rhageboeck/COVID-R-Web-App/blob/main/build/asset-manifest.json&quot;,&quot;user_id&quot;:87343795}}" data-hydro-click-hmac="1ac9c950ed1358b81a43447684ecd11f72c0f0302abeb555ced8e30d50443376" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to privacy&quot;,&quot;label&quot;:&quot;text:privacy&quot;}">Privacy</a></li>
-        <li class="mr-3 mr-lg-0"><a data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to security&quot;,&quot;label&quot;:&quot;text:security&quot;,&quot;originating_url&quot;:&quot;https://github.com/rhageboeck/COVID-R-Web-App/blob/main/build/asset-manifest.json&quot;,&quot;user_id&quot;:87343795}}" data-hydro-click-hmac="77cbbf847e5ead7555df022aa295f8b4fb04e8f25cf3c40d31ca9ded83d63e1d" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to security&quot;,&quot;label&quot;:&quot;text:security&quot;}" href="https://github.com/security">Security</a></li>
-        <li class="mr-3 mr-lg-0"><a href="https://www.githubstatus.com/" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to status&quot;,&quot;label&quot;:&quot;text:status&quot;,&quot;originating_url&quot;:&quot;https://github.com/rhageboeck/COVID-R-Web-App/blob/main/build/asset-manifest.json&quot;,&quot;user_id&quot;:87343795}}" data-hydro-click-hmac="eaee26d6d093598c30dbc8424883891b404f0a23f2972b543a953882f9a1435e" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to status&quot;,&quot;label&quot;:&quot;text:status&quot;}">Status</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://docs.github.com/en/github/site-policy/github-terms-of-service" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to terms&quot;,&quot;label&quot;:&quot;text:terms&quot;,&quot;originating_url&quot;:&quot;https://github.com/rhageboeck/COVID-R-Web-App/blob/main/build/precache-manifest.a18bf4707b225d8202c227299cfd3aa9.js&quot;,&quot;user_id&quot;:87343795}}" data-hydro-click-hmac="b2cc1189dceb3a10f350088750ad080f77bb71ca4e6006ccc7c8e802b15dbce4" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to terms&quot;,&quot;label&quot;:&quot;text:terms&quot;}">Terms</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://docs.github.com/en/github/site-policy/github-privacy-statement" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to privacy&quot;,&quot;label&quot;:&quot;text:privacy&quot;,&quot;originating_url&quot;:&quot;https://github.com/rhageboeck/COVID-R-Web-App/blob/main/build/precache-manifest.a18bf4707b225d8202c227299cfd3aa9.js&quot;,&quot;user_id&quot;:87343795}}" data-hydro-click-hmac="486e8da29cf5fc0597ec9dd902a2fcf7087082a1ff98776b762ab16d1e314ca3" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to privacy&quot;,&quot;label&quot;:&quot;text:privacy&quot;}">Privacy</a></li>
+        <li class="mr-3 mr-lg-0"><a data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to security&quot;,&quot;label&quot;:&quot;text:security&quot;,&quot;originating_url&quot;:&quot;https://github.com/rhageboeck/COVID-R-Web-App/blob/main/build/precache-manifest.a18bf4707b225d8202c227299cfd3aa9.js&quot;,&quot;user_id&quot;:87343795}}" data-hydro-click-hmac="f2bef445625dfc10618e49da158a80ffe29d209999324e7b419283d1c868cada" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to security&quot;,&quot;label&quot;:&quot;text:security&quot;}" href="https://github.com/security">Security</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://www.githubstatus.com/" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to status&quot;,&quot;label&quot;:&quot;text:status&quot;,&quot;originating_url&quot;:&quot;https://github.com/rhageboeck/COVID-R-Web-App/blob/main/build/precache-manifest.a18bf4707b225d8202c227299cfd3aa9.js&quot;,&quot;user_id&quot;:87343795}}" data-hydro-click-hmac="13033e01ada7d2902da50d9c356235da677eb9c6ad1187fc70aa9d31a55557a5" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to status&quot;,&quot;label&quot;:&quot;text:status&quot;}">Status</a></li>
         <li><a data-ga-click="Footer, go to help, text:Docs" href="https://docs.github.com">Docs</a></li>
     </ul>
 
@@ -2551,11 +2664,11 @@
 </svg>
 </a>
     <ul class="list-style-none d-flex flex-wrap col-12 col-lg-5 flex-justify-center flex-lg-justify-between mb-2 mb-lg-0">
-        <li class="mr-3 mr-lg-0"><a href="https://support.github.com?tags=dotcom-footer" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to contact&quot;,&quot;label&quot;:&quot;text:contact&quot;,&quot;originating_url&quot;:&quot;https://github.com/rhageboeck/COVID-R-Web-App/blob/main/build/asset-manifest.json&quot;,&quot;user_id&quot;:87343795}}" data-hydro-click-hmac="360594305cedce1e82b1d1374a4854bfccfa43a0264a1bd6d37088b6788194a6" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to contact&quot;,&quot;label&quot;:&quot;text:contact&quot;}">Contact GitHub</a></li>
-        <li class="mr-3 mr-lg-0"><a href="https://github.com/pricing" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to Pricing&quot;,&quot;label&quot;:&quot;text:Pricing&quot;,&quot;originating_url&quot;:&quot;https://github.com/rhageboeck/COVID-R-Web-App/blob/main/build/asset-manifest.json&quot;,&quot;user_id&quot;:87343795}}" data-hydro-click-hmac="e60ce1efc126098edb108c8cebf1a90f0931b76885db14546fa7790b1c3923c1" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to Pricing&quot;,&quot;label&quot;:&quot;text:Pricing&quot;}">Pricing</a></li>
-      <li class="mr-3 mr-lg-0"><a href="https://docs.github.com" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to api&quot;,&quot;label&quot;:&quot;text:api&quot;,&quot;originating_url&quot;:&quot;https://github.com/rhageboeck/COVID-R-Web-App/blob/main/build/asset-manifest.json&quot;,&quot;user_id&quot;:87343795}}" data-hydro-click-hmac="f032b21cb00e45d683bf841a8355d580cc747417a0bc719c0d65727cd097c808" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to api&quot;,&quot;label&quot;:&quot;text:api&quot;}">API</a></li>
-      <li class="mr-3 mr-lg-0"><a href="https://services.github.com" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to training&quot;,&quot;label&quot;:&quot;text:training&quot;,&quot;originating_url&quot;:&quot;https://github.com/rhageboeck/COVID-R-Web-App/blob/main/build/asset-manifest.json&quot;,&quot;user_id&quot;:87343795}}" data-hydro-click-hmac="b3999f858d86b2f9efe9c987d98e2c1b130bc183407e55dd6eec4d041d5d3351" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to training&quot;,&quot;label&quot;:&quot;text:training&quot;}">Training</a></li>
-        <li class="mr-3 mr-lg-0"><a href="https://github.blog" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to blog&quot;,&quot;label&quot;:&quot;text:blog&quot;,&quot;originating_url&quot;:&quot;https://github.com/rhageboeck/COVID-R-Web-App/blob/main/build/asset-manifest.json&quot;,&quot;user_id&quot;:87343795}}" data-hydro-click-hmac="f44f80de21bdb618436c012d6ad5f56d41ef21f39f369a293412a6d6bab78dfc" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to blog&quot;,&quot;label&quot;:&quot;text:blog&quot;}">Blog</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://support.github.com?tags=dotcom-footer" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to contact&quot;,&quot;label&quot;:&quot;text:contact&quot;,&quot;originating_url&quot;:&quot;https://github.com/rhageboeck/COVID-R-Web-App/blob/main/build/precache-manifest.a18bf4707b225d8202c227299cfd3aa9.js&quot;,&quot;user_id&quot;:87343795}}" data-hydro-click-hmac="490bd9001af6cb69b3bd909d5b404b49cd3d00b6e7656b11c59e94aac81b14b7" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to contact&quot;,&quot;label&quot;:&quot;text:contact&quot;}">Contact GitHub</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://github.com/pricing" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to Pricing&quot;,&quot;label&quot;:&quot;text:Pricing&quot;,&quot;originating_url&quot;:&quot;https://github.com/rhageboeck/COVID-R-Web-App/blob/main/build/precache-manifest.a18bf4707b225d8202c227299cfd3aa9.js&quot;,&quot;user_id&quot;:87343795}}" data-hydro-click-hmac="7405d6ce7a3503bb3e37d68d62c4027f3f47c89e2f7ba07dc0af0edd9709581e" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to Pricing&quot;,&quot;label&quot;:&quot;text:Pricing&quot;}">Pricing</a></li>
+      <li class="mr-3 mr-lg-0"><a href="https://docs.github.com" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to api&quot;,&quot;label&quot;:&quot;text:api&quot;,&quot;originating_url&quot;:&quot;https://github.com/rhageboeck/COVID-R-Web-App/blob/main/build/precache-manifest.a18bf4707b225d8202c227299cfd3aa9.js&quot;,&quot;user_id&quot;:87343795}}" data-hydro-click-hmac="1ba589a1439a30d83022acc32f7a999c02fce9580f9a4f32709bb5fea7d904a7" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to api&quot;,&quot;label&quot;:&quot;text:api&quot;}">API</a></li>
+      <li class="mr-3 mr-lg-0"><a href="https://services.github.com" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to training&quot;,&quot;label&quot;:&quot;text:training&quot;,&quot;originating_url&quot;:&quot;https://github.com/rhageboeck/COVID-R-Web-App/blob/main/build/precache-manifest.a18bf4707b225d8202c227299cfd3aa9.js&quot;,&quot;user_id&quot;:87343795}}" data-hydro-click-hmac="5d795bbdbca290adfb497ca4e7d5d02c2937ea5cb003b4a623427d7c1fd384b1" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to training&quot;,&quot;label&quot;:&quot;text:training&quot;}">Training</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://github.blog" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to blog&quot;,&quot;label&quot;:&quot;text:blog&quot;,&quot;originating_url&quot;:&quot;https://github.com/rhageboeck/COVID-R-Web-App/blob/main/build/precache-manifest.a18bf4707b225d8202c227299cfd3aa9.js&quot;,&quot;user_id&quot;:87343795}}" data-hydro-click-hmac="087215740669a268d444b556edb3e13848d159cf8cb42779bb6fe623db3d72cb" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to blog&quot;,&quot;label&quot;:&quot;text:blog&quot;}">Blog</a></li>
         <li><a data-ga-click="Footer, go to about, text:about" href="https://github.com/about">About</a></li>
     </ul>
   </div>
